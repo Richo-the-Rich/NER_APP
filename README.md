@@ -7,7 +7,11 @@ Named Entity Recognition App for detecting objects like bottle, table, chair and
 
 ### Library used 
 > Spacy
+
 > Sklearn
+
 > Numpy
+
 > Spacy_streamlit
+
 > Streamlit

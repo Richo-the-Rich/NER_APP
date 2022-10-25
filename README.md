@@ -15,3 +15,9 @@ Named Entity Recognition App for detecting objects like bottle, table, chair and
 > Spacy_streamlit
 
 > Streamlit
+
+### Model website
+
+This model is deploy on heroku using streamlit [Click](https://nerstapp.herokuapp.com/)
+
+<!-- <a href="https://www.example.com/my great page">link</a> -->
